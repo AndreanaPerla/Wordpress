@@ -13,9 +13,9 @@
       target="_blank"><span class="dashicons dashicons-instagram"></span></a>
   </div>
   <div class="sincontru-footer-info">
-    <p><span class="dashicons dashicons-phone"></span> 070 284835</p>
-    <p><span class="dashicons dashicons-location"></span> Viale Trieste, 74, 09123 Cagliari (CA)</p>
-    <p>Made with <span class="dashicons dashicons-heart"></span> for S'incontru<p>
+    <p><span class="dashicons dashicons-phone"></span> 070 xxxxxx</p>
+    <p><span class="dashicons dashicons-location"></span> Piazza del Carmine, 09123 Cagliari (CA)</p>
+    <p>Made with <span class="dashicons dashicons-heart"></span> for L'Incontro<p>
   </div>
 </footer>
   <?php wp_footer(); ?>
